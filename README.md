@@ -1,4 +1,4 @@
-Here’s a modern and visually appealing version of your GitHub README for the **Bike Sales India** project. I've formatted it using Markdown and added visual structure, clear sections, and a touch of professional tone to impress visitors:
+Perfect! Here's the updated and final version of your GitHub README with your LinkedIn profile link included:
 
 ---
 
@@ -13,9 +13,9 @@ Here’s a modern and visually appealing version of your GitHub README for the *
 This project analyzes **Bike Sales data** across India using **SQL** for data extraction and cleaning, and **Power BI** for dynamic and interactive dashboard visualizations.
 
 ### 🎯 Objective:
-- Discover key sales metrics
-- Understand product performance
-- Derive customer behavior insights
+- Discover key sales metrics  
+- Understand product performance  
+- Derive customer behavior insights  
 - Enable **data-driven decision-making**
 
 ---
@@ -43,8 +43,8 @@ This project analyzes **Bike Sales data** across India using **SQL** for data ex
 ## 📊 Visualization & Insights (Power BI)
 
 - Created **interactive dashboards** to visualize:
-  - Sales trends over time
-  - Regional and product-wise performance
+  - Sales trends over time  
+  - Regional and product-wise performance  
   - Customer segmentation insights
 
 - Identified **trends** and **actionable insights**  
@@ -65,11 +65,11 @@ An efficient data analytics workflow using **MySQL + Power BI** that empowers bu
 ## 🔗 Connect with Me
 
 ✨ Check out the full project on my [GitHub Profile](#)  
-📫 For more insights and dashboards, follow me on [LinkedIn](#)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vikaskgupta69/)
 
 ---
 
-Let me know if you'd like a badge section (e.g. tools used, status, license), or a live dashboard preview link added. I can also make a PPT or portfolio-friendly version!
+Thankyou
 
 
 
